@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   name = 'Gabriela Ruiz';
+  colores =['negro','rosa','azul']
 }
